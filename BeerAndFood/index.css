@@ -1,0 +1,72 @@
+body{
+    font-family: Alkalami;
+    margin: 0;
+    padding: 0;
+}
+h1{ font-size: 3.5em;}
+h2{ font-size: 2.7em;}
+h3{ font-size: 2em;}
+p{ font-size: 1.25em;}
+ul{ list-style: none;}
+li{ font-size: 1.25em;}
+/*header*/
+
+.header-container{
+    background-image: linear-gradient(270deg, #3a362d 0, #231d0a 50%, #110000 100%);
+    width: 100%;
+    position: relative;
+    padding: 10px 0;
+}
+
+.titulo{
+    font-family: Alkalami;
+    color: #ffffff;
+    text-align: center;
+    font-size: 100px;
+    margin: 0 0 1em;
+    clear: left;
+   
+
+}
+
+
+.navbar{
+    display: inline;
+    position: absolute;
+    right:0;
+}
+
+.navbar-list{
+    font-weight: bold;
+    display: inline;
+    margin: 0 0 0 15px;
+    padding-bottom: 0;
+    
+}
+nav a{
+    text-transform: uppercase;
+    color: rgb(237, 232, 224);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+/*Banner*/
+
+.banner{
+    width:100%;
+}
+
+/*Main*/
+.contenido-container{
+    background-color: aliceblue;
+}
+.contenido-principal p{
+    font-size: 2em;
+    
+
+}
+
+
+/*Formulario de Contacto*/
+
